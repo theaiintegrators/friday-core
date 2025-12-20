@@ -34,6 +34,22 @@ This open-core edition includes:
 
 ------------------------------------------------------------------------
 
+## 🎥 Architecture Walkthrough (Video)
+
+A short demo showcasing how **Friday Core** performs multi-agent orchestration
+in a real enterprise-style interface (Microsoft Teams), including:
+
+- Intent-based agent routing
+- Deterministic state transitions
+- Tool / MCP-based execution
+- Execution-level observability via LangSmith
+
+▶️ Watch: https://www.youtube.com/watch?v=ddowg61Qt80
+
+> This video corresponds to **FRIDAY CORE EP01 — Core Orchestration**.
+
+------------------------------------------------------------------------
+
 ## ✨ Features (Public Edition)
 
 -   Lightweight LangGraph workflow
